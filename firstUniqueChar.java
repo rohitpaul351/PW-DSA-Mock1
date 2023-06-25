@@ -20,5 +20,6 @@ public class firstUniqueChar{
                 return;
             }
         }
+        System.out.print(-1);
     }	
 }
